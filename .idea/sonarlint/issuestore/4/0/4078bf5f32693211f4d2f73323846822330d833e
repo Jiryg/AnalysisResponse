@@ -1,0 +1,14 @@
+
+l
+java:S2095"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(Ù›àë8¬Â¾†/
+j
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(¼İ•Ôúÿÿÿÿ8¬Â¾†/
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ8¬Â¾†/
+W	java:S1258"<This block of commented-out lines of code should be removed.(”¦Š58¬Â¾†/
+E
+java:S1481G"(Remove this unused "str" local variable.(ÔŒšæ8¬Â¾†/
+L
+java:S3740'"/Provide the parametrized type for this generic.(»§«8µ¨‡‡/
+T
+java:S1854G"7Remove this useless assignment to local variable "str".(ÔŒšæ8¬Â¾†/
